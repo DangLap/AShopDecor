@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DBSHop",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "backend",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Anh]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChiTietHoaDon]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChiTietPhieuNhap]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HoaDon]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoaiSanPham]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NguoiDung]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NhaCungCap]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PhieuNhapKho]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuanLy]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SanPham]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TaiKhoan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Thuoc]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "AMBROSESIZZAN.shopDecorDb_04",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

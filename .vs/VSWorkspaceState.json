@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\backend",
+    "\\backend\\backend\\Controllers",
+    "\\backend\\backend\\Data",
+    "\\frontend",
+    "\\frontend\\css",
+    "\\frontend\\jquery"
+  ],
+  "SelectedNode": "\\backend\\backend\\Controllers\\CartController.cs",
+  "PreviewInSolutionExplorer": false
+}
